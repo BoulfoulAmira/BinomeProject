@@ -1,0 +1,5 @@
+com\mycompany\binomeproject\presentation\controller\AuthController.class
+com\mycompany\binomeproject\resources\JakartaEE10Resource.class
+com\mycompany\binomeproject\JakartaRestConfiguration.class
+com\mycompany\binomeproject\business\entity\User.class
+com\mycompany\binomeproject\business\service\UserService.class
